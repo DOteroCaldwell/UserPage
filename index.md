@@ -1,5 +1,7 @@
 # Diego Otero-Caldwell
 
+![Me](IMG_3687-Small.HEIC)
+
 [LinkedIn](https://www.linkedin.com/in/diego-otero-caldwell)
 
 [GitHub](https://github.com/DOteroCaldwell)
@@ -7,10 +9,10 @@
 [Instagram](https://www.instagram.com/jitsplits)
 
 
-First-year transfer student at UCSD studying Computer Science; expected graduation **Fall 2026**. Passionate about [sustainability](#Sustainability), [housing equity](#Housing), and [Brazilian Jiu Jitsu](#Brazilian-Jiu-Jitsu).
+First-year transfer student at UCSD studying Computer Science; expected graduation **Fall 2026**. Passionate about [sustainability](#sustainability), [housing equity](#housing), and [Brazilian Jiu Jitsu](#brazilian-Jiu-Jitsu).
 
 ## Sustainability
-This are where links to sustainability resources will go.
+This are where links to sustainability resources go.
 
 [Climate Town](https://www.youtube.com/watch?v=PJnJ8mK3Q3g)
 
