@@ -54,7 +54,6 @@ def spider_guard_gameplan_v1(opponent):
     # Keep calm and look for submission opportunities
     breath()
     explore_submissions()
-
 ```
 
 This example gameplan, often represented as a decision tree, but here as pseudocode, can now be tested and iterated upon through multiple rounds of rolling and competition against many different opponents. The discrete catagorization of jiu jitsu moves and posistions and the relatively low impact hard sparring has on your body lends itslef surprisingly well to a design/testing framework.
