@@ -9,7 +9,7 @@
 [Instagram](https://www.instagram.com/jitsplits)
 
 
-First-year transfer student at UCSD studying Computer Science; expected graduation **Fall 2026**. Passionate about [sustainability](#sustainability), [housing equity](#housing), and [Brazilian Jiu Jitsu](#brazilian-Jiu-Jitsu).
+First-year transfer student at UCSD studying Computer Science; expected graduation **Fall 2026**. Passionate about [sustainability](#sustainability), [housing equity](#housing), and [Brazilian Jiu Jitsu](#brazilian-jiu-jitsu).
 
 ## Sustainability
 This are where links to sustainability resources go.
