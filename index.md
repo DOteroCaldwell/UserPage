@@ -1,7 +1,5 @@
 # Diego Otero-Caldwell
 
-![Me](IMG_3687-Small.HEIC)
-
 [LinkedIn](https://www.linkedin.com/in/diego-otero-caldwell)
 
 [GitHub](https://github.com/DOteroCaldwell)
