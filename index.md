@@ -10,10 +10,14 @@
 First-year transfer student at UCSD studying Computer Science; expected graduation **Fall 2026**. Passionate about [sustainability](#Sustainability), [housing equity](#Housing), and [Brazilian Jiu Jitsu](#Brazilian-Jiu-Jitsu).
 
 ## Sustainability
+This are where links to sustainability resources will go.
 
+[Climate Town](https://www.youtube.com/watch?v=PJnJ8mK3Q3g)
 
 ## Housing
+Easily one of the most pressing issues of our time is our national shortage of housing, especially in the urban centers where many people wish to live for the job opportunities, proximity to friends, and urban ammenities. As a self-identified progressive YIMBY, I try to follow what policy actions are happening to combat this crisis.
 
+[YIMBY FAQ](housing_faq.md)
 
 ## Brazilian Jiu Jitsu
 
@@ -47,7 +51,8 @@ def spider_guard_gameplan_v1(opponent):
   finally:
     # Keep calm and look for submission opportunities
     breath()
+    explore_submissions()
 
 ```
 
-This example gameplan, often represented as a decision tree
+This example gameplan, often represented as a decision tree, but here as pseudocode, can now be tested and iterated upon through multiple rounds of rolling and competition against many different opponents. The discrete catagorization of jiu jitsu moves and posistions and the relatively low impact hard sparring has on your body lends itslef surprisingly well to a design/testing framework.
